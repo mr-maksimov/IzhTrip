@@ -21,7 +21,7 @@ $this->params['breadcrumbs'][] = $this->title;
             <img style="width: 300px; height: 300px;" src="/basic/imgs/<?=$model->id?>.jpg">
         </div>
         <div style="float:left;">
-            <p class="red">
+            <p>
                 <?=$model->content?>
             </p>
         </div>

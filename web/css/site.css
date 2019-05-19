@@ -114,6 +114,8 @@ a.desc:after {
     outline: none;
 }
 
-.red{
-    color: red;
+.div_img{
+    width: 300px; 
+    float:left; 
+    margin-right: 10px;
 }
