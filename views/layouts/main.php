@@ -40,6 +40,8 @@ AppAsset::register($this);
         'items' => [
             ['label' => 'Главная', 'url' => ['/site/index']],
             ['label' => 'Мероприятия', 'url' => ['/events/index']],
+            ['label' => 'Партнеры', 'url' => ['/partners/index']],
+            ['label' => 'Обратная связь', 'url' => ['/feedback/create']],
             ['label' => 'О нас', 'url' => ['/site/about']],
         ],
     ]);
@@ -57,7 +59,8 @@ AppAsset::register($this);
 
 <footer class="footer">
     <div class="container">
-        <p class="pull-left">&copy; IzhTrip <?= date('Y') ?></p>
+        <p class="pull-left">&copy; IzhTrip <?= date('Y') ?> </p>
+        <p class="pull-right"><a target="_blank" href="https://money.yandex.ru/to/41001283157938">Пожертвовать на развитие</a> </p>
     </div>
 </footer>
 
