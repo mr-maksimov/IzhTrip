@@ -11,7 +11,7 @@ $this->title = 'IzhTrip';
 <div class="site-index">
     <div class="body-content" >
         <div class="center" >
-            <iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3A65a14b636b2139093b37a31ea084b6f748d8d1ad439e125fe6a8e505864116fe&amp;source=constructor" width="100%" height="500px" frameborder="0"></iframe>
+            <iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3A8aef6eefc39c5eb30fc39cdbd397b9385b6cb4071278fe3e6eb19acfd1a9a6ce&amp;source=constructor" width="100%" height="500" frameborder="0"></iframe>
         </div>
     </div>
 </div>
